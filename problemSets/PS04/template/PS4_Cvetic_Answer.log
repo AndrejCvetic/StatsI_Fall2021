@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.13)  25 NOV 2021 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.13)  26 NOV 2021 14:21
 entering extended mode
 **./PS4_Cvetic_Answer.tex
 (PS4_Cvetic_Answer.tex
@@ -866,45 +866,45 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 16.
-) (PS4_Cvetic_Answer.r) [2] [3]
-Overfull \hbox (2.03592pt too wide) in paragraph at lines 174--176
+) (PS4_Cvetic_Answer.r) [2]
+Overfull \hbox (2.03592pt too wide) in paragraph at lines 176--178
 []\OT1/cmr/m/n/12 Professional: $[]\OML/cmm/m/it/12 Y\OT1/cmr/m/n/12 ) = 58\OML
 /cmm/m/it/12 :\OT1/cmr/m/n/12 9235389 + (0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 000
 8452) \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 6000 = 63\OML/cmm/m/it/12 :\OT1/cmr/m/
 n/12 9947389$ Non-professional:$[] =
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 228.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 230.
 
 [5] (PS4_Cvetic_Answer.r)
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 252.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 254.
 
 (PS4_Cvetic_Answer.r) [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
  (PS4_Cvetic_Answer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 286.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `PS4_Cvetic_Answer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 286.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
  ) 
 Here is how much of TeX's memory you used:
  23555 strings out of 481527
  401497 string characters out of 2929199
- 880228 words of memory out of 3000000
+ 881228 words of memory out of 3000000
  38289 multiletter control sequences out of 15000+200000
  546403 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -922,7 +922,7 @@ amsfonts/cm/cmti12.pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb
 ><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/MiKTeX 2.9/fon
 ts/type1/public/cm-super/sfrm1000.pfb><C:/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sfrm1200.pfb>
-Output written on PS4_Cvetic_Answer.pdf (7 pages, 179374 bytes).
+Output written on PS4_Cvetic_Answer.pdf (7 pages, 181291 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)

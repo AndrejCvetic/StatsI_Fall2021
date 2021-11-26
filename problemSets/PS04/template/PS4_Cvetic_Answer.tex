@@ -120,31 +120,33 @@ help(Prestige)
 	\item [(c)]
 	Write the prediction equation based on the result.
 	
-	Based on the propositions of the regression the equation should look have the following form (I don't know how to remove the italic in x in the equation mode, but i put the variable X as an upper case): 
+	Based on the propositions of the regression the equation should look have the following form (I don't know how to remove the italic in x in the equation mode, but i put the variables X as an upper case): 
 	
-	$\hat{Y} = \hat{\upbeta}0 + \hat{\beta}1Xi + \hat{\beta}2x1 + \hat{\beta}3x1xXi$ 
+	$\hat{Y} = \hat{\upbeta}0 + \hat{\beta}1Xi + \hat{\beta}2D1 + \hat{\beta}3XiD1$ 
+	
+	$\hat{Y} = intercept + \hat{\beta}1*income + \hat{\beta}2*Dummyprofession + \hat{\beta}3*income*Dummyprofession$
 	
 	Plugging in the coefficients, then the equation should take the following form:
 	
-	$\hat{Y} = 21.1422589 + 0.0031709Xi + 37.7812800 + (-0.0023257)xXi$
+	$\hat{Y} = 21.1422589 + 0.0031709Xi + 37.7812800 + (-0.0023257)Xi$
 	
 	which effectively translates into the following: 
 	
-	$\hat(Y) = 58.9235389 + (0.0008452)Xi$ 
+	$\hat{Y} = 58.9235389 + (0.0008452)Xi$ 
 	
 \newpage
 	\item [(d)]
 	Interpret the coefficient for \texttt{income}.
 	
-	The coefficient for income $\hat{\beta}1$ has the value of 0.0031709. Holding other terms in the equation at their observed mean, every additional 1 point jump on Pineo-Porter prestige scale is positively associated with additional \$0.0031709 of income (on average).     
+	The coefficient for income $\hat{\beta}1$ has the value of 0.0031709. Holding other terms in the equation at their observed mean, every additional \$1 of income is positively associated with additional \$0.0031709 points on Pineo-Porter prestige scale (on average).     
 	
 	\vspace{1cm}	
 	\item [(e)]
 	Interpret the coefficient for \texttt{professional}.
 	
-	The coefficient for professional $\hat{\beta}2$ has the value of 37.7812800. Holding other terms in the equation at their observed mean, every additional 1 point jump on Pineo-Porter prestige scale is positively associated with additional 37.7812800 score points for belonging to the category of professionals (on average). 
+	The coefficient for professional $\hat{\beta}2$ has the value of 37.7812800. Holding other terms in the equation at their observed mean, every additional being a member of the professional category on is positively associated with additional 37.7812800 score points Pineo-Porter prestige scale (on average). 
 	
-	\newpage
+	\vspace{1cm}
 	\item [(f)]
 	What is the effect of a \$1,000 increase in income on prestige score for professional occupations? In other words, we are interested in the marginal effect of income when the variable \texttt{professional} takes the value of $1$. Calculate the change in $\hat{y}$ associated with a \$1,000 increase in income based on your answer for (c).
 	
